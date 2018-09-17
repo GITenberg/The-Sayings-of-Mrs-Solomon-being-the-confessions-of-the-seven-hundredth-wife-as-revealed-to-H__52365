@@ -1,0 +1,26 @@
+_repo: The-Sayings-of-Mrs-Solomon-being-the-confessions-of-the-seven-hundredth-wife-as-revealed-to-H__52365
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rowland, Helen
+    birthdate: 1876
+    gutenberg_agent_id: '34715'
+    url: http://www.gutenberg.org/2009/agents/34715
+description: ''
+gutenberg_issued: '2016-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage -- Humor'
+- !lcsh 'American wit and humor'
+- !lcsh 'Man-woman relationships -- Humor'
+- !lcc 'PN'
+- GITenberg
+title: "The Sayings of Mrs. Solomon\r\nbeing the confessions of the seven hundredth\
+  \ wife as revealed to Helen Rowland"
+url: http://www.gutenberg.org/ebooks/52365
