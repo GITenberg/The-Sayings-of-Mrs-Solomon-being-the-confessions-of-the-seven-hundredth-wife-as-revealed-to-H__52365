@@ -1,5 +1,8 @@
 _repo: The-Sayings-of-Mrs-Solomon-being-the-confessions-of-the-seven-hundredth-wife-as-revealed-to-H__52365
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 52365-h/images/cover.jpg
 creator:
   author:
     agent_name: Rowland, Helen
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '34715'
     url: http://www.gutenberg.org/2009/agents/34715
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52365#The-Sayings-of-Mrs-Solomon-being-the-confessions-of-the-seven-hundredth-wife-as-revealed-to-H_
 gutenberg_issued: '2016-06-18'
 gutenberg_type: Text
 identifiers:
